@@ -8,3 +8,7 @@ My business plan is to set up a 'Surf and Shake' shop in Hawaii around the Oahu 
 -----
 
 ## Results
+
+
+| June Summary Statistics    |  December Summary Statistics |
+|---------------------------|---------------------------|
