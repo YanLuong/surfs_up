@@ -12,3 +12,4 @@ My business plan is to set up a 'Surf and Shake' shop in Hawaii around the Oahu 
 
 | June Summary Statistics    |  December Summary Statistics |
 |---------------------------|---------------------------|
+https://github.com/YanLuong/surfs_up/blob/main/Screenshots/summary%20stats%20june.png |
