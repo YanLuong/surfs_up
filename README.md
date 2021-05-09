@@ -22,3 +22,7 @@ My business plan is to set up a 'Surf and Shake' shop in Hawaii around the Oahu 
 ---
 
 ### 3. Summary
+
+
+
+![box plot](https://github.com/YanLuong/surfs_up/blob/main/Screenshots/combined%20box%20plot.png)
