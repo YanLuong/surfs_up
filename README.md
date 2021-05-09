@@ -23,6 +23,6 @@ My business plan is to set up a 'Surf and Shake' shop in Hawaii around the Oahu 
 
 ### 3. Summary
 
-
+When comparing June and December, there is on average 4 degrees difference between the two months and it's a very consistent trend in the summary statistics. The difference lies in the standard deviation and the minimum temperature for December. The month of December has a much higher standard deviation than in June
 
 ![box plot](https://github.com/YanLuong/surfs_up/blob/main/Screenshots/combined%20box%20plot.png)
