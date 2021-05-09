@@ -1,6 +1,6 @@
 # Surfs Up
 
-### 1. Purpose and background
+### 1. Purpose and Background
 
 My business plan is to set up a 'Surf and Shake' shop in Hawaii around the Oahu island so that I may live there forever. I've reached out to an investor called W.Avy for financial backing. To get W.Avy and his board of directors on board with this business venture, he has some weather concerns that need to be addressed and requires some data analysis to be done on some weather data sets. In this analysis, the focus will be on temperature trends (June and December) to determine if the ice cream and surf shop is sustainable all year round using Python, Pandas, Matplotlib and SQLAlchemy. 
 
