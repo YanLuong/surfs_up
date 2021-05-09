@@ -21,9 +21,10 @@ My business plan is to set up a 'Surf and Shake' shop in Hawaii around the Oahu 
 
 ---
 
-### 3. Summary
+### 3. Summary & Recommendation
 
 When comparing June and December, there is on average 4 degrees difference between the two months and it's a very consistent trend in the summary statistics. The difference lies in the standard deviation and the minimum temperature for December. The month of December has a much higher standard deviation than in June and this can be seen in the box plot below with the longer whiskers and significantly higher number of outliers. Below the minimum temperature for December, there are significantly more outliers than in June. This will impact and distort the summary statistics for December and drag down the mean and the IQR temperature numbers.
+
 The first recommendation would be to address the outliers as it is currently distorting the temperature numbers for December. First step, would be to determine if the outliers are relevant(random events) or done in error? Since we know there are different stations that record the temperatures, we can filter out by station to get the minimum, maximum and mean temperatures for each station. If the results are consistent across all the stations then we can eliminate the idea that a station may have recorded some of the temperatures in error. Another way to identify if the outliers are specific to a station or not would be to plot a muitple line chart, with each line representing a station of the temperature recorded vs date on the same chart. This will provide a good overview of the temperature trends across all the stations over a period of time. The second recommendation would be to plot all the temperatures vs date on a scatter plot so we can see exactly when or where the outliers occured. Depending on the visualised results, it may be better to just remove the outliers to get a clearer picture of the results for December. And lastly, I would recommend running the same analysis for each month. That way we can observe the general temperature stats for the whole year.
 
 ![box plot](https://github.com/YanLuong/surfs_up/blob/main/Screenshots/combined%20box%20plot.png)
